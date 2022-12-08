@@ -1,0 +1,28 @@
+*{
+    background: yellow;
+}
+
+
+h1{
+    font-style: verdana;
+    font-size:20px;
+    color: brown;
+    text-align: center;  
+}
+
+.describe{
+    font-size: 14px;
+}
+
+a#botao button {
+    margin-top: 20px;
+    border-radius: 10px;
+    border: 2px solid #000;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  a#botao img {
+    height: 40px;
+  }
+  

@@ -1,0 +1,32 @@
+*{
+    background: yellow;
+}
+
+
+h1{
+    font-style: verdana;
+    font-size:20px;
+    color: brown;
+    text-align: center; 
+    background-image: url(https://img.freepik.com/vetores-gratis/ondas-do-mar-em-ondulacao-com-fundo-azul_1017-33715.jpg?w=996&t=st=1670501757~exp=1670502357~hmac=500dd05cb6badb952ed3b677f3b5f3cf629dc0cc94638d84400fdc7f77f24d57);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.describe{
+    font-size: 14px;
+}
+
+a#botao button {
+    margin-top: 20px;
+    border-radius: 10px;
+    border: 2px solid #000;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  a#botao img {
+    height: 40px;
+  }
+  
