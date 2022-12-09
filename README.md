@@ -35,7 +35,7 @@ DEVinHouse tem duração de 9 meses: 3 meses por módulo, com intervalo de uma s
 
 ## 🛠 Tecnologias
 
-As seguintes ferramentas foram usadas na construção do projeto:
+As seguintes ferramentas são usadas na construção dos projetos:
 
 - [HTML][expo]
 - [CSS][CSS]
