@@ -1,4 +1,4 @@
-<h1 align="left"> # DEVinHouse <img src="./Assets/audaces.png"> <img src="./Assets/logo-dev-in-01.png"></h1>
+<h1 align="center"> # DEVinHouse <img src="./Assets/audaces.png"> <img src="./Assets/logo-dev-in-01.png"></h1>
 
 <h4 align="justify">DEVinhouse é uma jornada de aceleração da carreira com: grade curricular direcionada, professores do mercado, prática constante, interação frequente com as houses parceiras de cada turma, simulação do dia-a-dia DEV e vagas exclusivas que são abertas pelas Houses durante a jornada. Busca o desenvolvimento do profissional de forma focada para o mercado e suas necessidades.
 </h4>
@@ -57,6 +57,6 @@ e outro....
 
 [nodejs]: https://nodejs.org/
 [CSS]: https://developer.mozilla.org/pt-BR/docs/Web/CSS
-[expo]: HTMLhttps://expo.io/
+[expo]: https://expo.io/
 [Angular]: https://angular.io/
 [.net]: https://learn.microsoft.com/pt-br/dotnet/csharp/
