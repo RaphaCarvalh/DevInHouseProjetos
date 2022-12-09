@@ -55,6 +55,7 @@ e outro....
 ## 😯 
 
 *Semana Um - Html&CSS
+*Semana Dois - Kanban&Git&JS
 
 [nodejs]: https://nodejs.org/
 [CSS]: https://developer.mozilla.org/pt-BR/docs/Web/CSS
