@@ -4,11 +4,9 @@ Arquivos desenvolvidos durante o curso, integrando diversas ferramentas e funcio
 *Semana Um - Html&CSS
 
 <h1 align="left">
-<img src="./Assets/audaces.png"><img src="./Assets/logo-dev-in-01.png">
-</h1>
-
+<img src="./Assets/audaces.png">
 <h1 align="right">
-
+<img src="./Assets/logo-dev-in-01.png">
 </h1>
 
 <h4 align="center"> 
