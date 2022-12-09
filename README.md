@@ -53,7 +53,7 @@ e outro....
 
 ## 😯 
 
-Feito com ❤️ por DEVone.R8 👋🏽 [Entre em contato!](https://www.linkedin.com/in/raphaelmcarvalho/)
+*Semana Um - Html&CSS
 
 [nodejs]: https://nodejs.org/
 [CSS]: https://developer.mozilla.org/pt-BR/docs/Web/CSS
