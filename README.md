@@ -1,4 +1,5 @@
-<h1 align="center"> # DEVinHouse <img src="./Assets/audaces.png"> <img src="./Assets/logo-dev-in-01.png"></h1>
+<h1 align="center"> # DEVinHouse </h1>
+<h1 align="center"><img src="./Assets/audaces.png"> <img src="./Assets/logo-dev-in-01.png"></h1>
 
 <h4 align="justify">DEVinhouse é uma jornada de aceleração da carreira com: grade curricular direcionada, professores do mercado, prática constante, interação frequente com as houses parceiras de cada turma, simulação do dia-a-dia DEV e vagas exclusivas que são abertas pelas Houses durante a jornada. Busca o desenvolvimento do profissional de forma focada para o mercado e suas necessidades.
 </h4>
