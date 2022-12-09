@@ -7,7 +7,7 @@
 	🚧 NextLevelWeek 1.0 🚀 em construção... 🚧  
 </h4>
 
-##  Sobre o mim
+## :nerd_face: Sobre o mim
 
 <div align="right"> 
   <a href="https://www.youtube.com/channel/UCh2WUPuxwKy6RYN7SuDcPNQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
