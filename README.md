@@ -1,4 +1,4 @@
-# DevInHouseSemanaUm
+# DevInHouse <img src="./Assets/audaces.png"> <img src="./Assets/logo-dev-in-01.png">
 Arquivos desenvolvidos durante o curso, integrando diversas ferramentas e funcionalidades
 
 *Semana Um - Html&CSS
