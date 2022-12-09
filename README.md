@@ -3,11 +3,11 @@
 <h4 align="justify">DEVinhouse é uma jornada de aceleração da carreira com: grade curricular direcionada, professores do mercado, prática constante, interação frequente com as houses parceiras de cada turma, simulação do dia-a-dia DEV e vagas exclusivas que são abertas pelas Houses durante a jornada. Busca o desenvolvimento do profissional de forma focada para o mercado e suas necessidades.
 </h4>
 
-## 💻 Sobre o projeto
-
 <h4 align="right"> 
 	🚧 NextLevelWeek 1.0 🚀 em construção... 🚧  
 </h4>
+
+##  Sobre o mim
 
 <div align="right"> 
   <a href="https://www.youtube.com/channel/UCh2WUPuxwKy6RYN7SuDcPNQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -36,7 +36,7 @@ DEVinHouse tem duração de 9 meses: 3 meses por módulo, com intervalo de uma s
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [HTML][HTML]
+- [HTML][expo]
 - [CSS][CSS]
 - [Javascript][nodejs]
 - [Angular][Angular]
