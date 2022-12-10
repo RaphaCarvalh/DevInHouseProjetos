@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Alert em JavaScript - documento teste</title>
+    <script src="" async></script>
+  </head>
+<body>
+
+<p>Clique para começar.</p>
+
+<button onclick="myFunction()">Clique aqui</button>
+
+<p id="demo"></p>
+
+<script>
+function myFunction()
+{ /* Insira o codigo teste! */
+var numero = parseInt(prompt('Digite um número:'));
+
+if (isNaN(numero)) {
+  alert('Número inválido');
+} else {
+  var pares = 0;
+  var impares = 0;
+  for (var i = 0; i <= numero; i++) {
+    if (i % 2 === 0) {
+      pares += 1;
+    } else {
+      impares += 1;
+    }
+  }
+
+  alert('Existem ' + pares + ' números pares e ' + impares + ' números ímpares');
+}
+
+
+}
+</script>
+
+</body>
+</html>

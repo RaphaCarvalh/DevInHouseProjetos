@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Alert em JavaScript - documento teste</title>
+    <script src="" async></script>
+  </head>
+<body>
+
+<p>Clique para começar.</p>
+
+<button onclick="myFunction()">Clique aqui</button>
+
+<p id="demo"></p>
+
+<script>
+function myFunction()
+{ /* Insira o codigo teste! */
+var idade = parseInt(prompt("Digite uma idade"));
+
+if((idade >= 0 ) && ( idade <= 15)){
+    alert("Jovem!!");
+    }
+    else if((idade > 15 ) && ( idade <= 60)){
+    alert("Adulto!!");
+    }
+    
+    else if ((idade > 60) && (idade <= 110)) {
+    alert("Idoso!!");
+    
+    }
+    else{
+        alert("Valor indevido!");
+    }
+
+
+}
+</script>
+
+</body>
+</html>

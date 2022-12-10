@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Alert em JavaScript - documento teste</title>
+    <script src="" async></script>
+  </head>
+<body>
+
+<p>Clique para começar.</p>
+
+<button onclick="myFunction()">Clique aqui</button>
+
+<p id="demo"></p>
+
+<script>
+function myFunction()
+{ /* Insira o codigo teste! */
+var soma = 0
+
+do {
+    var numero = parseInt(prompt("Entre com um valor qualquer"));
+  
+    if (numero === null) {
+      break;
+    }
+
+    numero = parseInt(numero);
+
+    if (isNaN(numero) || numero === -1) {
+      continue;
+    }
+  
+    soma = soma + numero;
+  } while (numero !== -1);
+  
+  alert(soma);
+
+
+}
+</script>
+
+</body>
+</html>
