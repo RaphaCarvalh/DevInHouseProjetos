@@ -1,0 +1,42 @@
+O QUE SÃO ARRAYS?/ BREVE RESUMO
+
+Arrays são como listas de elementos dentro da mesma "caixinha".
+Como por exemplo uma lista de frutas, lista de alunos...
+
+ex:
+const alunos = ["Rani", "Cristina","Edu","Maria","Manu","Luiz","Gio"]
+
+const listaDeNumeros = [5, 3, 33, 66, 52521,12]
+
+//-----------------------------------------------------
+Podemos colocar qualquer tipo, dentro de um array
+números, string, booleans
+//-----------------------------------------------------
+
+E também podemos misturar os tipos dentro de um array
+
+ex:
+let array = ["sou um texto", 15151, false]
+
+//-----------------------------------------------------
+ PARA ACESSAR UM ARRAY ULTILIZAMOS OS ÍNDICES, E TODO ARRAY COMEÇA NA POSIÇÃO 0
+
+   ex:
+             		 0         1       2      3      4      5      6
+	const alunos = ["Rani", "Cristina","Edu","Maria","Manu","Luiz","Gio"]
+
+indice 0 = Rani
+indice 1 = Cristina
+indice 2 = Edu
+indice 3 = Maria
+indice 4 = Manu
+indice 5 = Luiz
+indice 6 = Gio
+
+Para acessar um item, colocamos a sua posição (índice) entre colchetes após o nome alunos.
+
+ex:			  0         1        2      3       4      5     6
+	const alunos = ["Rani", "Cristina","Edu","Maria","Manu","Luiz","Gio"]
+
+	console.log(alunos[3]) // irá retornar Maria
+
